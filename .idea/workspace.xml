@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e507a353-96ad-426c-9ce9-ac459b63c180" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MoreLessorder/src/main/resources/consumer.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MoreLessorder/src/main/resources/provider.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moreless-product/src/main/resources/consumer.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moreless-product/src/main/resources/provider.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moreless-product/src/main/resources/consumer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/moreless-product/src/main/resources/consumer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moreless-product/src/main/resources/provider.xml" beforeDir="false" afterPath="$PROJECT_DIR$/moreless-product/src/main/resources/provider.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,8 +61,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568282490822</updated>
-      <workItem from="1568282494388" duration="1396000" />
+      <workItem from="1568282494388" duration="1535000" />
     </task>
+    <task id="LOCAL-00001" summary="add xml">
+      <created>1568284037244</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568284037244</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,5 +86,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="add xml" />
   </component>
 </project>
